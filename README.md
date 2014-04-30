@@ -1,3 +1,7 @@
+Forked from - https://github.com/addyosmani/generator-boilerplate
+
+---------------------------------------------------------------------------------------
+
 Boilerplate Generator Template
 ========================================
 
