@@ -1,6 +1,6 @@
 {
   "name": "generator-alpaca-flask",
-  "version": "0.1.4",
+  "version": "0.0.0",
   "description": "Yeoman Generator for ...",
   "main": "app/index.js",
   "repository": {
